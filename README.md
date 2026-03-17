@@ -52,6 +52,8 @@ Each investor evaluates independently as a parallel agent, then a synthesizer si
 
 ## Example
 
+![vc-evaluator demo](demo/demo.gif)
+
 ```
 VC PANEL EVALUATION
 Startup: ORE Mining Protocol
