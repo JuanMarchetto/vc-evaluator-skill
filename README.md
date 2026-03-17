@@ -83,6 +83,20 @@ WHAT WOULD CHANGE THE OUTCOME:
 3. Get 3 signed LOIs from mid-size general contractors
 4. Demonstrate 2x MoM growth over the next quarter
 5. Secure a strategic angel from the construction industry
+
+INDIVIDUAL FEEDBACK:
+  Sarah Chen (Infra VC):
+  ✓ "Construction tech is a $1.8T industry with 1990s software"
+  ✗ "No construction veteran on the team — who closes enterprise deals?"
+
+  Marcus Webb (SaaS):
+  ✓ "Clean B2B metrics structure — they understand unit economics"
+  ✗ "Show me retention, not signups. Where's the 3-month cohort data?"
+
+PITCH COACHING:
+  1. Lead with the pain: "GCs lose 30% of project margin to scheduling chaos"
+  2. Demo the mobile app live — judges want to see the foreman UX
+  3. Name-drop pilot customers (social proof > slide deck)
 ```
 
 ## Requirements
