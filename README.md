@@ -54,49 +54,61 @@ Each investor evaluates independently as a parallel agent, then a synthesizer si
 
 ```
 VC PANEL EVALUATION
-Startup: ConstructFlow
-Stage: Seed
-Sector: B2B SaaS / Construction Tech
+Startup: ORE Mining Protocol
+Stage: Seed ($3M)
+Sector: DeFi / Mining / Solana Infrastructure
 
-VERDICT: PARTNER MEETING
-Funding Probability: 35% at Seed
+VERDICT: TERM SHEET LIKELY
+Funding Probability: 72% at Seed
 
-| Criterion        | Weight | Sarah Chen (Infra) | Marcus Webb (SaaS) | Priya Patel (Generalist) | Avg  |
-|------------------|--------|--------------------|---------------------|--------------------------|------|
-| Team             | 40%    | 7                  | 8                   | 6                        | 7.0  |
-| Market           | 25%    | 8                  | 7                   | 8                        | 7.7  |
-| Product          | 15%    | 7                  | 6                   | 7                        | 6.7  |
-| Traction         | 10%    | 5                  | 6                   | 5                        | 5.3  |
-| Moat             | 10%    | 6                  | 5                   | 5                        | 5.3  |
-| **Overall**      |        | **7.0**            | **6.9**             | **6.5**                  | **6.8** |
+| Criterion     | Weight | Lily Liu (Eco) | Kyle Samani (DeFi) | Anatoly Y. (Tech) | Tarun Chitra (Mech) | Avg  |
+|---------------|--------|----------------|--------------------|--------------------|---------------------|------|
+| Team          | 40%    | 7              | 7                  | 8                  | 7                   | 7.3  |
+| Market        | 25%    | 9              | 8                  | 8                  | 7                   | 8.0  |
+| Product       | 15%    | 7              | 7                  | 9                  | 8                   | 7.8  |
+| Traction      | 10%    | 9              | 8                  | 9                  | 7                   | 8.3  |
+| Moat          | 10%    | 6              | 6                  | 7                  | 5                   | 6.0  |
+| **Overall**   |        | **7.6**        | **7.2**            | **8.2**            | **6.9**             | **7.5** |
 
 PARTNER MEETING SIMULATION:
-Sarah champions — she's seen the construction tech pain firsthand through her
-portfolio company BuildOS. Marcus is cautiously positive but wants to see retention
-data. Priya would pass — she thinks the team needs a construction industry veteran
-as a co-founder. After 20 minutes of debate, they'd invite founders in for a
-partner meeting, conditional on seeing 3-month cohort data.
-
-WHAT WOULD CHANGE THE OUTCOME:
-1. Add a co-founder with 10+ years in construction operations
-2. Show 3-month retention cohorts from pilot customers
-3. Get 3 signed LOIs from mid-size general contractors
-4. Demonstrate 2x MoM growth over the next quarter
-5. Secure a strategic angel from the construction industry
+Anatoly champions hard — ORE becoming the highest-traffic program on Solana is the
+exact network-effect proof point he looks for, and the PoW-on-PoS architecture is
+technically novel. Lily backs him, framing ORE as a PayFi primitive that brings
+Bitcoin-mining culture into Solana's ecosystem. Kyle is positive but pushes on token
+emission sustainability — "What happens when rewards halve and miners leave?" Tarun
+is the skeptic: he respects the mechanism design but wants formal analysis of the V2
+staking game's equilibrium. After debate, the room converges — $3M seed with a
+milestone tranche tied to V2 mainnet launch and staking TVL targets.
 
 INDIVIDUAL FEEDBACK:
-  Sarah Chen (Infra VC):
-  ✓ "Construction tech is a $1.8T industry with 1990s software"
-  ✗ "No construction veteran on the team — who closes enterprise deals?"
+  Lily Liu (Ecosystem):
+  ✓ "812 stars and highest-traffic program on Solana — this is organic, not bought"
+  ✗ "Token emission schedule needs a clear sustainability model past year two"
 
-  Marcus Webb (SaaS):
-  ✓ "Clean B2B metrics structure — they understand unit economics"
-  ✗ "Show me retention, not signups. Where's the 3-month cohort data?"
+  Kyle Samani (DeFi):
+  ✓ "Proof-of-Work on Solana is contrarian enough to be interesting — and it worked"
+  ✗ "The PoW-on-PoS tension is a narrative risk — how do you explain this to LPs?"
+
+  Anatoly Yakovenko (Technical):
+  ✓ "They stress-tested the network and survived — that's real technical validation"
+  ✗ "V2 grid mechanics add complexity — is the team shipping fast enough for both?"
+
+  Tarun Chitra (Mechanism Design):
+  ✓ "The 5x5 strategic grid with SOL staking is genuinely novel game-theoretic design"
+  ✗ "No formal equilibrium analysis — what stops degenerate strategies from dominating?"
+
+WHAT WOULD CHANGE THE OUTCOME:
+  1. Publish formal tokenomics paper with emission curves and sustainability analysis
+  2. Ship V2 to mainnet with measurable staking TVL before closing the round
+  3. Commission mechanism design audit for the grid game's Nash equilibria
 
 PITCH COACHING:
-  1. Lead with the pain: "GCs lose 30% of project margin to scheduling chaos"
-  2. Demo the mobile app live — judges want to see the foreman UX
-  3. Name-drop pilot customers (social proof > slide deck)
+  1. Lead with traction: "We became the #1 program on Solana by transaction count
+     with zero marketing spend" — let the network data do the talking
+  2. Pre-empt the PoW-on-PoS objection: frame it as "fair launch distribution on
+     the fastest chain" not "Bitcoin mining on Solana"
+  3. Show the V2 grid game live — investors in this room live for novel mechanism
+     design, a 60-second demo beats 10 slides
 ```
 
 ## Requirements
